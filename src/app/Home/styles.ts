@@ -26,6 +26,7 @@ export const styles = StyleSheet.create({
     padding: 24,
     marginTop: 24,
   },
+  // filtro e dinamismo da troca entre os itens de diferentes status
   filterHeader: {
     flexDirection: "row",
     alignItems: "center",

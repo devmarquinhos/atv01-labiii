@@ -9,6 +9,7 @@ export const styles = StyleSheet.create({
     borderBottomWidth: 1,
     borderBottomColor: '#F0F0F0',
   },
+  // bolinha de status
   checkArea: {
     flexDirection: 'row',
     alignItems: 'center',
